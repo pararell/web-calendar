@@ -1,0 +1,20 @@
+{
+  "name": "web-calendar",
+  "version": "1.0.0",
+  "description": "Calendar for web for notes or events",
+  "main": "index.js",
+  "keywords": [
+    "calendar",
+    "web-calendar",
+    "datepicker",
+    "notes",
+    "events"
+  ],
+  "scripts": {
+    "build": "vite build --base=./",
+    "serve": "vite serve"
+  },
+  "author": "pararell",
+  "license": "ISC",
+  "type": "module"
+}
