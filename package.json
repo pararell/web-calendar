@@ -16,5 +16,23 @@
   },
   "author": "pararell",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "esbuild": "^0.21.5",
+    "nanoid": "^3.3.7",
+    "picocolors": "^1.0.1",
+    "postcss": "^8.4.40",
+    "rollup": "^4.19.1",
+    "source-map-js": "^1.2.0",
+    "vite": "^5.3.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pararell/web-calendar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pararell/web-calendar/issues"
+  },
+  "homepage": "https://github.com/pararell/web-calendar#readme"
 }
