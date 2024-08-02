@@ -2,6 +2,8 @@
 
 Web Calendar is an easy-to-use npm package designed to display a customizable calendar on your web application. It offers a straightforward and flexible solution for adding calendar functionality to your projects.
 
+![Web Calendar Example](assets/web-calendar.png)
+
 ## Features
 
 - Easy integration with any web application
