@@ -1,6 +1,6 @@
 import { createCalendar } from "./create-calendar.js";
-import arrows from "./templates/arrows.html?raw";
-import calendarMonth from "./templates/calendar-month.html?raw";
+import {arrows} from "./templates/arrows.js";
+import {calendarMonth} from "./templates/calendar-month.js";
 
 export class WebCalendar extends EventTarget {
   constructor(months = 13) {
